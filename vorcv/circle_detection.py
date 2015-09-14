@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# VoR-CV
+# PyVoR-CV
 
 # The MIT License
 #

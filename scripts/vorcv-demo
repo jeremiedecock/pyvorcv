@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# VoR-CV
+# PyVoR-CV
 
 # The MIT License
 #
@@ -26,7 +26,7 @@
 # THE SOFTWARE.
 
 """
-VoR-CV
+PyVoR-CV
 """
 
 import argparse
@@ -38,7 +38,7 @@ def main():
 
     # Parse the programm options (get the path of the image file to read) #####
 
-    parser = argparse.ArgumentParser(description='VoR-CV, the VoRobotics Computer Vision library.')
+    parser = argparse.ArgumentParser(description='PyVoR-CV, the VoRobotics Computer Vision library.')
     parser.add_argument("--cameraid", "-i",
                         help="The camera ID number (default: 0)",
                         type=int, default=0, metavar="INTEGER")
