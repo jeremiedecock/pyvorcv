@@ -6,6 +6,7 @@
 - [x] Add the computer vision script
 - [x] Add text informations in OpenCV windows: circle center and radius, draw
       the non-react window
+- [ ] Remove the numpy dependency ?
 - [ ] Try other params (accumulator resolution, ...): see what other people do
       on internet
 - [ ] Compute control in three dimensions (relative width height and depth of
