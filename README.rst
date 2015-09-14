@@ -146,8 +146,8 @@ The `PyVoR-CV` library is provided under the terms and conditions of the
 .. _NumPy: http://www.numpy.org/
 .. _command prompt: https://en.wikipedia.org/wiki/Cmd.exe
 
-.. |Photo 1| image:: http://download.tuxfamily.org/jdhp/image/small_pyvorcv-2.jpeg
-.. _Photo 1: http://download.tuxfamily.org/jdhp/image/pyvorcv-2.jpeg
+.. |Photo 1| image:: http://download.tuxfamily.org/jdhp/image/small_vor12-2.jpeg
+.. _Photo 1: http://download.tuxfamily.org/jdhp/image/vor12-2.jpeg
 
-.. |Video 1| image:: http://download.tuxfamily.org/jdhp/image/pyvorcv_demo_youtube.jpeg
+.. |Video 1| image:: http://download.tuxfamily.org/jdhp/image/vor12_demo_youtube.jpeg
 .. _Video 1: https://youtu.be/0HlRtU8clt4
