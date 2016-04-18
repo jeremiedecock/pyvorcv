@@ -7,8 +7,8 @@ Copyright (c) 2015 Jeremie DECOCK (http://www.jdhp.org)
 
 * Web site: http://www.jdhp.org/projects_en.html#pyvorcv
 * Online documentation: http://pyvorcv.readthedocs.org
-* Source code: https://github.com/volab/pyvorcv
-* Issue tracker: https://github.com/volab/pyvorcv/issues
+* Source code: https://github.com/jeremiedecock/vor-cv-python
+* Issue tracker: https://github.com/jeremiedecock/vor-cv-python/issues
 * PyVoR-CV on PyPI: https://pypi.python.org/pypi/pyvorcv
 
 In collaboration with http://www.vorobotics.com
@@ -129,7 +129,7 @@ Bug reports
 
 To search for bugs or report them, please use the PyVoR-CV Bug Tracker at:
 
-    https://github.com/volab/pyvorcv/issues
+    https://github.com/jeremiedecock/vor-cv-python/issues
 
 
 License
