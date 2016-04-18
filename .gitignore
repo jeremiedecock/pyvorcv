@@ -2,7 +2,7 @@ dist/
 __pycache__/
 build/
 dist/
-vorcv.egg-info/
+*.egg-info/
 *.swp
 *.pyc
 *.pyo
